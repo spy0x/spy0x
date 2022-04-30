@@ -9,5 +9,5 @@ Soy Francisco V. Diaz, literato, músico y programador. Soy chileno nacido en Co
 ## Qualities
 Soy muy dedicado, quizás un poco perfeccionista y un poco tímido también, pero muy responsable y me adapto rápido ante cualquier circunstancia. 
 ### Contact Me
-Puedes contactarte conmigo vía Linkedin [aquí](https://www.linkedin.com/in/francisco-v-d%C3%ADaz-935917100/ "aquí").
+Puedes contactarte conmigo vía Linkedin [aquí](https://www.linkedin.com/in/francisco-v-diaz/ "aquí").
 
