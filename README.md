@@ -1,13 +1,13 @@
 # About me
-Soy Francisco V. Diaz, literato, músico y programador. Soy chileno nacido en Concepción, pero he vivido en Santiago desde que tengo memoria. Estudié Letras con mención en Literatura y Lingüística Hispánicas y tengo un Magíster en Edición junto a un Minor en Historia de la Música, pero siempre me he dedicado a la reparación de equipos y asesorías en computación. Soy un fanático de los computadores desde los cinco años, muy apasionado con todo lo que sea el desarrollo de videojuegos y la domótica. Manejo bastante bien C# y Unity, y he realizado un bootcamp de Full Stack Python Developer. Siempre busco continuar aprendiendo más.
+Writer, musician, cyclist and developer. I'm Chilean, born in Concepción, but living in Santiago since I can remember. Even though I studied Hispanic Linguistics and Literature, minored in Music History, and have a Master’s Degree in Publishing, I've spent most of my professional life dedicated to the repair and assessment of computer-related equipment. I've been a huge fan of computers since I was five. I’m very passionate about everything that involves Game Development and Home Automation. I am always in the lookout for new knowledge.
 
 ## Skills
-- C# Unity Game Developer
-- Full Stack Python Developer
-- Intermediate English (TOEIC Aprobado)
+- C# Unity Gameplay Programmer
+- C++ Unreal Engine Gameplay Programmer
+- Frontend JavaScript ReactJS Web Developer
+- Full Stack Python Django Web Developer
+- Intermediate English (TOEIC Approved)
 
-## Qualities
-Soy muy dedicado, quizás un poco perfeccionista y un poco tímido también, pero muy responsable y me adapto rápido ante cualquier circunstancia. 
 ### Contact Me
-Puedes contactarte conmigo vía Linkedin [aquí](https://www.linkedin.com/in/francisco-v-diaz/ "aquí").
+You can contact me at LinkedIn [here](https://www.linkedin.com/in/francisco-v-diaz/ "aquí").
 
