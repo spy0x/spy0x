@@ -16,3 +16,6 @@ I’m very passionate about everything that involves Game Development (Unity and
 ### Contact Me
 You can contact me at LinkedIn [here](https://www.linkedin.com/in/francisco-v-diaz/ "aquí").
 
+My Itchio: [https://spy0x.itch.io](https://spy0x.itch.io)
+My GameDev Portfolio: [https://www.artstation.com/spy0x](https://www.artstation.com/spy0x)
+
