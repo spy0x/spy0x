@@ -1,6 +1,6 @@
 # About me
 
-[![Profile Photo](/profile.png "Profile Photo")](/profile.png "Profile Photo")
+[![Profile Photo](profile.png "Profile Photo")](profile.png "Profile Photo")
 
 Writer, musician, cyclist and developer. I'm Chilean, born in Concepción, but living in Santiago since I can remember. Even though I studied Hispanic Linguistics and Literature, minored in Music History, and have a Master’s Degree in Publishing, I'm currently a Fullstack JavaScript and Python Developer.
 
