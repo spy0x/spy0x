@@ -2,24 +2,26 @@
 
 [![Profile Photo](profile.png "Profile Photo")](profile.png "Profile Photo")
 
-Writer, musician, cyclist and developer. I'm Chilean, born in Concepción, but living in Santiago since I can remember. Even though I studied Hispanic Linguistics and Literature, minored in Music History, and have a Master’s Degree in Publishing, I'm currently a Fullstack JavaScript and Python Developer.
+Writer, musician, cyclist, and developer from Chile. Born in Concepción but raised in Santiago. Despite a background in Hispanic Linguistics, Literature, and Music History (with a Master’s in Publishing), I pivoted to tech and now work as a Fullstack JavaScript/Python and XR Game Developer.
 
-I’m very passionate about everything that involves Game Development and Home Automation. I am always in the lookout for new knowledge.
+I’m very passionate about everything that involves Game Development and Home Automation. I am always in the lookout for new knowledge!
 
-## Skills
-- C# Unity Gameplay Programmer
-- C++ Unreal Engine Gameplay Programmer
-- Full Stack JavaScript Node/React Developer
-- Full Stack Python Django Developer
-- Intermediate English (TOEIC Approved)
-- PostgreSQL and MongoDB
-- AWS Architecture
-- DevOps (Jenkins, Terraform, Ansible, others) 
+### 🛠️ Technical Skills  
+- **Frontend**: React, JavaScript, TypeScript 
+- **Backend**: Node.js, Express.js, Django (Python)  
+- **Game Dev**: Unity (C#), Unreal Engine (C++)  
+- **Cloud/DevOps**: AWS (EC2, S3, RDS), Docker, Terraform, Ansible
+- **Cybersecurity**: Wazuh SIEM, Windows AD | Linux Bash, VirtualBox | VMWare  
 
-### Contact Me
-You can contact me at LinkedIn [here](https://www.linkedin.com/in/francisco-v-diaz).
+### 🌐 Languages  
+- Spanish (Native), English (C2 Proficient EFS English - TOEIC B2 Certified)  
 
-My Itchio: [https://spy0x.itch.io](https://spy0x.itch.io).
+### 📌 Contact Me
+Let's connect! Reach me on LinkedIn or explore my projects below:
 
-My GameDev Portfolio: [https://www.artstation.com/spy0x](https://www.artstation.com/spy0x).
+💼 [My LinkedIn](https://www.linkedin.com/in/francisco-v-diaz)
+🎮 [GameDev Portfolio](https://www.artstation.com/spy0x)
+🕹️ [My Itchio Games](https://spy0x.itch.io)
 
+#### Others
+🎹 Fun fact: I also create piano covers! Check my YouTube channel [here!](https://www.youtube.com/spy0x).
