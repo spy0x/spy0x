@@ -1,17 +1,18 @@
 # About me
 
-[![Profile Photo](profile.png "Profile Photo")](profile.png "Profile Photo")
+[![Profile Photo](profile_picture.png "Profile Photo")](profile_picture.png "Profile Photo")
 
 Writer, musician, cyclist, and developer from Chile. Born in Concepción but raised in Santiago. Despite a background in Hispanic Linguistics, Literature, and Music History (with a Master’s in Publishing), I pivoted to tech and now work as a Fullstack JavaScript/Python and XR Game Developer.
 
 I’m very passionate about everything that involves Game Development and Home Automation. I am always in the lookout for new knowledge!
 
 ### 🛠️ Technical Skills  
-- **Frontend**: React, JavaScript, TypeScript 
+- **Frontend**: React, JavaScript, TypeScript, Tailwind 
 - **Backend**: Node.js, Express.js, Django (Python)  
-- **Game Dev**: Unity (C#), Unreal Engine (C++)  
-- **Cloud/DevOps**: AWS (EC2, S3, RDS), Docker, Terraform, Ansible
-- **Cybersecurity**: Wazuh SIEM, Windows AD | Linux Bash, VirtualBox | VMWare  
+- **Game Dev**: Unity (C#), Unreal Engine (C++)
+- **Cloud/DevOps**: AWS (EC2, S3, RDS), Docker, Terraform, Ansible, Jenkins
+- **Cybersecurity**: Wazuh SIEM, Windows AD | Linux Bash, IAM, VirtualBox | VMWare
+- **Agile**: Scrum, Kanban, Notion, Discord, Slack  
 
 ### 🌐 Languages  
 - Spanish (Native), English (C2 Proficient EFS English - TOEIC B2 Certified)  
